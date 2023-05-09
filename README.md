@@ -1,4 +1,4 @@
-#FirebaseのFirestore
+#FirebaseのFirestoreに格納したデータを反映
 
 <h1>使用技術</h1>
 <ul>
